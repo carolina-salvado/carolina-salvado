@@ -1,9 +1,9 @@
-### Hi! I'm Carolina Salvado! 😉
+### Hi! My name is Carolina Salvado and I'm an IT student! 😉 
 
 <div align="center">
   <a href="https://github.com/carolina-salvado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-salvado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!--<img height="200em" width = "480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-salvado&layout=compact&langs_count=7&theme=radical"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-salvado&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!--
