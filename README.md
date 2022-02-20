@@ -1,4 +1,4 @@
-### Hi! My name is Carolina Salvado and I'm an IT student! 😉 
+### Hello! My name is Carolina Salvado and I'm an IT student! 😉 
 
 <div align="center">
   <a href="https://github.com/carolina-salvado">
